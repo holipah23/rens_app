@@ -1,6 +1,6 @@
-# Klinik App
+# Ren's App
 
-This is a mobile application for managing a clinic built with Flutter. The application is designed to make it easier for clinic staff to manage patient appointments, medical records, and billing.
+This is a mobile application for managing a online store built with Flutter. The application is designed to make it easier for online store admin to manage users and product
 
 ## Installation
 
@@ -11,13 +11,11 @@ This is a mobile application for managing a clinic built with Flutter. The appli
 
 ## Features
 
-The Klinik App comes with the following features:
+The Ren's App comes with the following features:
 
 - User authentication (login and logout)
-- Patient registration
-- Appointment scheduling
-- Medical record management
-- Billing management
+- Manage users
+- Manage product
 
 ## Technologies Used
 
